@@ -1,0 +1,37 @@
+body{
+  background-image:url("img1.jpg");
+  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-position: center;
+	  background-size: cover;
+	 -webkit-background-size: cover;
+	 -moz-background-size: cover;
+	 -o-background-size: cover;
+  
+}
+.name{
+  text-align:center;
+  font-family: 'Brush Script MT', cursive;
+  color: whitesmoke;
+  font-size: 100px;
+}
+.age{
+  text-align:center;
+  font-family: 'Courier New', monospace;
+  color: whitesmoke;
+  font-size: 80px;
+}
+.hap{
+  text-align:center;
+  font-family: 'Courier New', monospace;
+  color:rgb(247, 202, 201);
+  font-size: 80px;
+}
+.by{
+  text-align: bottom;
+  float: right;
+  margin-right: 12px;
+  font-size: 25px;
+  font-style: solid;
+  font-family:  'Brush Script MT', cursive;
+}
